@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/igrabski/igrabski.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a 2nd-year PhD student in Biostatistics at Harvard University, advised by [Rafael Irizarry](https://rafalab.github.io/) and [Giovanni Parmigiani](https://scholar.harvard.edu/parmigiani). Previously, I earned a Bachelor's degree in Chemical & Biological Engineering from Princeton University, where I worked with [Barbara Engelhardt](https://www.cs.princeton.edu/~bee/). I work on statistical and machine learning methods for genomic applications, with special interests in Bayesian analysis and multi-study machine learning. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Preprints
 
-### Markdown
+[Probabilistic Gene Expression Signatures Identify Cell-Types from Single Cell RNA-seq Data](https://www.biorxiv.org/content/10.1101/2020.01.05.895441v2). **Isabella N. Grabski**, Rafael A. Irizarry. *bioRxiv* (2020).
+[Bayesian Ordinal Quantile Regression with a Partially Collapsed Gibbs Sampler](https://arxiv.org/abs/1911.07099). **Isabella N. Grabski**, Roberta De Vito, Barbara E. Engelhardt. *arXiv* (2020).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Manuscripts in Progress
 
-```markdown
-Syntax highlighted code block
+*Bayesian Combinatorial Multi-Study Factor Analysis with the Indian Buffet Process*. **Isabella N. Grabski**, Roberta De Vito, Lorenzo Trippa, Giovanni Parmigiani.
+*A Statistical Framework for the Joint Identification of Common and Specific Patterns of Genetic Regulation in Multi-Tissue Studies*. Roberta De Vito, Bianca Dumitrascu, **Isabella N. Grabski** (**co-first-authors**), Barbara E. Engelhardt.
+*Differentially Methylated Regions and Methylation QTLs for Depression and Early Puberty in the Fragile Families Study*. Roberta De Vito, **Isabella N. Grabski** (**co-first-authors**), Derek Aguiar, Archit Verma, Barbara E. Engelhardt. 
 
-# Header 1
-## Header 2
-### Header 3
+## Posters
 
-- Bulleted
-- List
+*Bayesian Combinatorial Multi-Study Factor Analysis with the Indian Buffet Process*. **Isabella N. Grabski**, Roberta De Vito, Lorenzo Trippa, Giovanni Parmigiani. *Workshop for Women in Machine Learning, 2019* (Poster).
+*Bayesian Ordinal Quantile Regression with a Partially Collapsed Gibbs Sampler*. **Isabella N. Grabski**, Roberta De Vito, Barbara E. Engelhardt. *Joint Statistical Meetings, 2019* (Poster). 
 
-1. Numbered
-2. List
+## Awards
 
-**Bold** and _Italic_ and `Code` text
+Workshop for Women in Machine Learning Travel Award, 2019.
+National Science Foundation Graduate Research Fellowship, 2018. 
 
-[Link](url) and ![Image](src)
-```
+## Teaching Experience
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/igrabski/igrabski.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Biostatistics 223, Applied Survival Analysis (Teaching Assistant, 2020).
+Biostatistics 210, Applied Regression (Teaching Assistant, 2019).
+StatStart Summer Program, Statistical Methods (Instructor, 2019).
+Pipelines into Biostatistics (Graduate Student Research Mentor, 2019).
