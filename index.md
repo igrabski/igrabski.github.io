@@ -24,12 +24,12 @@ I am a 2nd-year PhD student in Biostatistics at Harvard University, advised by [
 
 ## Awards
 
-Workshop for Women in Machine Learning Travel Award, 2019.
-National Science Foundation Graduate Research Fellowship, 2018. 
+* Workshop for Women in Machine Learning Travel Award, 2019.
+* National Science Foundation Graduate Research Fellowship, 2018. 
 
 ## Teaching Experience
 
-Biostatistics 223, Applied Survival Analysis (Teaching Assistant, 2020).
-Biostatistics 210, Applied Regression (Teaching Assistant, 2019).
-StatStart Summer Program, Statistical Methods (Instructor, 2019).
-Pipelines into Biostatistics (Graduate Student Research Mentor, 2019).
+* Biostatistics 223, Applied Survival Analysis (Teaching Assistant, 2020).
+* Biostatistics 210, Applied Regression (Teaching Assistant, 2019).
+* StatStart Summer Program, Statistical Methods (Instructor, 2019).
+* Pipelines into Biostatistics (Graduate Student Research Mentor, 2019).
