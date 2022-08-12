@@ -40,7 +40,6 @@ I am a 5th-year PhD student in Biostatistics at Harvard University, advised by [
 * Biostatistics Teaching Award, Harvard University, 2021.
 * Certificate of Distinction in Teaching, Harvard University, 2021.
 * Workshop for Women in Machine Learning Travel Award, 2019.
-* National Science Foundation Graduate Research Fellowship, 2018. 
 
 ### Teaching Experience
 
